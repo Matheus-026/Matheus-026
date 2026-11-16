@@ -1,13 +1,17 @@
-# Olá, eu sou o Matheus Mendes 👋
+<!-- Texto Animado em Sequência (Typing SVG) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=750&lines=Seja+bem-vindo(a)!;Meu+nome+%C3%A9+Matheus+Mendes+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+PUC+Minas;Estou+no+5%C2%BA+per%C3%ADodo" alt="Texto animado" />
+</div>
 
-Estudante de **Ciência da Computação na PUC Minas**, com foco em desenvolvimento **Full-Stack**, arquitetura de software, modelagem de bancos de dados e aplicações com **Inteligência Artificial**.
-
-- 🌱 Atualmente aprofundando conhecimentos em **Cloud (AWS)**, **Arquitetura Limpa** e **Visão Computacional**.
-- 💻 Experiência prática com **Java (Spring Boot)**, **Dart (Flutter)**, **JavaScript** e **Python**.
-- 📫 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ramos-2635321b6/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheus.mendes26/)
+<!-- Redes Sociais -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-ramos-2635321b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/matheus.mendes26/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
@@ -44,7 +48,7 @@ Estudante de **Ciência da Computação na PUC Minas**, com foco em desenvolvime
 
 ---
 
-### 📊 Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.shion.dev/api?username=Matheus-026&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -58,5 +62,5 @@ Estudante de **Ciência da Computação na PUC Minas**, com foco em desenvolvime
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheus-026&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Matheus-026&style=flat-square&color=blue" alt="Visitas" />
 </div>
